@@ -2,7 +2,6 @@
   "name": "studentmanagementview",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://phanh1116.github.io/",
   "type": "module",
   "proxy": "http://34.71.5.27:8080",
   "scripts": {
